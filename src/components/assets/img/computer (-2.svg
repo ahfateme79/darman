@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.014" height="51.902" viewBox="0 0 36.014 51.902">
+  <g id="computer_1_" data-name="computer (1)" transform="translate(0)">
+    <rect id="Rectangle_1787" data-name="Rectangle 1787" width="29.658" height="51.902" transform="translate(3.178)" fill="#2361b5"/>
+    <rect id="Rectangle_1789" data-name="Rectangle 1789" width="23.303" height="36.544" transform="translate(6.355 7.944)" fill="#fff"/>
+    <g id="Group_4203" data-name="Group 4203" transform="translate(10.592 34.955)">
+      <rect id="Rectangle_1791" data-name="Rectangle 1791" width="3.178" height="3.178" fill="#00de9a"/>
+      <rect id="Rectangle_1792" data-name="Rectangle 1792" width="9.533" height="3.178" transform="translate(5.296)" fill="#00de9a"/>
+    </g>
+    <g id="Group_4204" data-name="Group 4204" transform="translate(0 6.956)">
+      <path id="Path_9801" data-name="Path 9801" d="M208.794,175.194a6,6,0,1,1-12,0" transform="translate(-184.784 -164.39)" fill="#2361b5"/>
+      <path id="Path_9802" data-name="Path 9802" d="M90.373,79.418l2.4-10.8h-9.6l-4.8,10.8a6,6,0,1,0,12,0" transform="translate(-78.368 -68.614)" fill="#1894ff"/>
+    </g>
+    <path id="Path_9803" data-name="Path 9803" d="M90.372,175.194h-12a6,6,0,1,0,12,0" transform="translate(-78.367 -157.434)" fill="#2361b5"/>
+    <path id="Path_9804" data-name="Path 9804" d="M293.927,79.418l-2.4-10.8h9.6l4.8,10.8a6,6,0,1,1-12,0" transform="translate(-269.918 -61.658)" fill="#1894ff"/>
+    <path id="Path_9805" data-name="Path 9805" d="M315.211,175.194h12a6,6,0,1,1-12,0" transform="translate(-291.202 -157.434)" fill="#2361b5"/>
+    <path id="Path_9806" data-name="Path 9806" d="M196.789,79.418l2.4-10.8h7.2l2.4,10.8" transform="translate(-184.784 -61.658)" fill="#fff"/>
+  </g>
+</svg>

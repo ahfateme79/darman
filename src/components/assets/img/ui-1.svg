@@ -1,0 +1,16 @@
+<svg id="ui" xmlns="http://www.w3.org/2000/svg" width="23.181" height="23.181" viewBox="0 0 23.181 23.181">
+  <path id="Path_9764" data-name="Path 9764" d="M133.8,0,128,11.59l5.8,11.59A11.59,11.59,0,0,0,133.8,0Z" transform="translate(-122.205)" fill="#2361b5"/>
+  <path id="Path_9765" data-name="Path 9765" d="M0,11.59a11.59,11.59,0,0,0,11.59,11.59V0A11.59,11.59,0,0,0,0,11.59Z" fill="#1894ff"/>
+  <path id="Path_9766" data-name="Path 9766" d="M162.437,60,158,68.874l4.437,8.874a8.874,8.874,0,0,0,0-17.748Z" transform="translate(-150.847 -57.284)" fill="#fff"/>
+  <path id="Path_9767" data-name="Path 9767" d="M60,68.874a8.874,8.874,0,0,0,8.874,8.874V60A8.874,8.874,0,0,0,60,68.874Z" transform="translate(-57.284 -57.284)" fill="#fff"/>
+  <path id="Path_9768" data-name="Path 9768" d="M238.826,236.708l-1.921-1.921H236l.906,1.921.96.96Z" transform="translate(-225.315 -224.157)" fill="#00de9a"/>
+  <path id="Path_9769" data-name="Path 9769" d="M150.541,149.581l-.96.96,4.818,4.818v-1.921Z" transform="translate(-142.809 -142.809)" fill="#00de9a"/>
+  <path id="Path_9770" data-name="Path 9770" d="M240.766,149.227,236.9,153.09l-.9,1.915h.9l4.821-4.821Z" transform="translate(-225.315 -142.455)" fill="#00de9a"/>
+  <path id="Path_9771" data-name="Path 9771" d="M213.574,236.708l.96.96.96-.96v-1.921Z" transform="translate(-203.905 -224.157)" fill="#00de9a"/>
+  <path id="Path_9772" data-name="Path 9772" d="M247.132,90h-.679l-.453.679.453.679h.679Z" transform="translate(-234.862 -85.925)" fill="#fff"/>
+  <path id="Path_9773" data-name="Path 9773" d="M241,90h.679v1.358H241Z" transform="translate(-230.089 -85.925)" fill="#fff"/>
+  <path id="Path_9774" data-name="Path 9774" d="M247.132,392h-.679l-.453.679.453.679h.679Z" transform="translate(-234.862 -374.252)" fill="#fff"/>
+  <path id="Path_9775" data-name="Path 9775" d="M241,392h.679v1.358H241Z" transform="translate(-230.089 -374.252)" fill="#fff"/>
+  <path id="Path_9776" data-name="Path 9776" d="M0,0H1.358V1.358H0Z" transform="translate(4.075 12.269) rotate(-90)" fill="#fff"/>
+  <path id="Path_9777" data-name="Path 9777" d="M0,0H1.358V1.358H0Z" transform="translate(17.748 12.269) rotate(-90)" fill="#fff"/>
+</svg>
